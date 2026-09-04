@@ -1,0 +1,1 @@
+print("Moje ime je:")
