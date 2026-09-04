@@ -1,2 +1,1 @@
-print("Moje prezime je")
-print("hello Veso")
+print("Moje prezime je Gligorin")
