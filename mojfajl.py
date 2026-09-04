@@ -1,1 +1,1 @@
-print("Ovo je moj python file")
+print("mojfajl vise nije isti")
