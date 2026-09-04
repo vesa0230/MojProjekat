@@ -1,1 +1,1 @@
-print("ime")
+print("Moje ime je:")
