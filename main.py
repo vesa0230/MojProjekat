@@ -1,1 +1,1 @@
-print("Imamo 3 faj")
+print("Imamo 3 fajla")
